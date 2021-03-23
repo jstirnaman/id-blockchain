@@ -1,0 +1,42 @@
+# Basic Attention Token Alexn
+
+## About Basic Attention Token
+
+* [Basic Attention Whitepaper, Feb 2021](https://basicattentiontoken.org/static-assets/documents/BasicAttentionTokenWhitePaper-4.pdf)
+
+  > By keeping thedata on the device only, encrypting the data and shielding the identities of our usersas a core     principle, BAT forms a bond with users that proves that not only does theirdata hold value, it holds substantial value that has been ignored and exploited by themiddlemen year after year in the current industry model.
+  
+# [Self-Sovereign Identity](https://vonx.io/getting_started/vons-blockchain-basis/#self-sovereign-identity) (SSI)
+
+  > Self-sovereign identity (SSI) is a promising approach to decentralize the handling of personal data that gives users back control of their data, where it belongs. 
+  
+# About VON, Verifiable Organizations Network
+* Global digital trust for organizations
+* Is this only Canada so far???
+
+  > The VON project is particularly focused on bootstrapping the trust attribute of the SSI approach for organizational entities.
+  
+  > The goal with the VON project is to enable organizations—and the people running those organizations—to conduct business online in a trusted manner. The core challenge is that on the Internet we can’t tell if we’re talking to you, or someone pretending to be you. We need a reliable way to verify that “you are you” in a manner appropriate for the type of transaction that you want to complete and in a privacy-preserving manner.
+
+* [Von's Blockchain Basis](https://vonx.io/getting_started/vons-blockchain-basis/)
+* [Self-Sovereign Identity](https://vonx.io/getting_started/vons-blockchain-basis/#self-sovereign-identity)
+  
+  ## Selective Disclosure
+  
+  ## ZKP, Zero-Knowledge Proof
+    > ZKPs use some tricky cryptographic techniques to take privacy a step beyond selective disclosure. A ZKP based on a VC enables the holder to prove that something about a claim is true without disclosing the value of the claim.
+    
+  ## [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)
+  * Hyperledger Indy is a distributed ledger purpose-built for decentralized ID with transferable, private, and secure credentials;
+  * Hyperledger Aries is infrastructure that supports interactions between peers and between blockchains and other DLTs; and
+  * Hyperledger Ursa is a modular, flexible library that enables developers to share time-tested and secure cryptography.
+  
+    ### Uses
+    * Kiva Protocol is built using Hyperledger Indy, Aries, and Ursa, and as implemented in Sierra Leone, allows citizens to perform electronic Know Your Customer (eKYC) verifications in about 11 seconds, using just their national ID number and a fingerprint.
+  
+# Permission.io
+
+# Other Blockchain projects, sorta related
+* IOTA, Tangle
+* Kin
+  
